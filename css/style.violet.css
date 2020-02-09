@@ -122,7 +122,7 @@ section {
 nav.navbar {
   padding-top: 0;
   padding-bottom: 0;
-  background: #fff;
+  background: #ebeced;
   border-bottom: 1px solid #e6e6e6;
 }
 
@@ -137,7 +137,7 @@ nav.navbar .navbar-brand {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: 700;
-  font-family: "Permanent Marker", serif;
+  font-family: "Roboto", serif;
 }
 
 nav.navbar a.nav-link {

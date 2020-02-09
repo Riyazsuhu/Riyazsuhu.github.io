@@ -82,8 +82,8 @@ section {
 }
 
 .bg-gradient {
-  background: -webkit-gradient(linear, left top, left bottom, from(#121212), to(#3E3838)) !important;
-  background: linear-gradient(to bottom, #121212, #3E3838) !important;
+  background: -webkit-gradient(linear, left top, left bottom, from(#9055A2), to(#a774b6)) !important;
+  background: linear-gradient(to bottom, #9055A2, #a774b6) !important;
   color: #fff;
 }
 
